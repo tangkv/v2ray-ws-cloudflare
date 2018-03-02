@@ -16,11 +16,11 @@
     "settings": {
       "vnext": [
         {
-          "address": "xxx.xxxx.tk",
+          "address": "xxx.xxx.xx",
           "port": 443,
           "users": [
             {
-              "id": "xxxxxxxx-a373-43a0-xxxx-33d4eeaeb857",
+              "id": "91cb66ba-a373-43a0-8169-33d4eeaeb857",
               "alterId": 64,
               "security": "aes-128-gcm"
             }
