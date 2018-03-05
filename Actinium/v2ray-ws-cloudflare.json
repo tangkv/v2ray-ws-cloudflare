@@ -16,7 +16,7 @@
     "settings": {
       "vnext": [
         {
-          "address": "xxx.xxx.xx",
+          "address": "xxx.xxx.xxx.xxx",
           "port": 443,
           "users": [
             {
